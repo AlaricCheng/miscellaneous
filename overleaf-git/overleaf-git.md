@@ -1,6 +1,8 @@
 本文是 overleaf 的 git 功能的使用教程。
 
-- git 客户端：https://gitforwindows.org/
+- git 客户端：
+    - Windows: https://gitforwindows.org/
+    - MacOS: https://git-scm.com/download/mac
 - tutorial for git: [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ___
